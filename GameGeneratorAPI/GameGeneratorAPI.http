@@ -1,0 +1,6 @@
+@GameGeneratorAPI_HostAddress = http://localhost:5001
+
+GET {{GameGeneratorAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
